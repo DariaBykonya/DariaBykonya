@@ -48,12 +48,14 @@
 ### The best projects:
 
 1. [Comparison of insurance companies](https://github.com/insurance-product-comparisons/fronted):\
-  \_ Feature: \_ helps you compare insurance company offers.\
-  Stack: JavaScript, React, SASS, HTML, Rest API, Storybook. \
+  *Feature:* helps you compare insurance company offers.\
+  *Stack:* JavaScript, React, SASS, HTML, Rest API, Storybook.
 2. [Movie search](https://github.com/DariaBykonya/movies-explorer-frontend):\
-  \_ Feature: \_ search for movies on demand and the ability to save to a personal account.\
-  Stack: JavaScript, React, API, CSS, HTML, MongoDB.
-
+  *Feature:* search for movies on demand and the ability to save to a personal account.\
+  *Stack:* JavaScript, React, API, CSS, HTML, MongoDB.
+3. [Mesto:](https://github.com/DariaBykonya/react-mesto-api-full-gha)\
+  *Feature:* A photo sharing application. You can add and edit your cards, still create a user, put and remove likes.\
+  *Stack:* JavaScript, React, API, CSS, HTML, MongoDB.
 
 ---
 
