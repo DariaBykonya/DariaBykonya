@@ -17,35 +17,46 @@
 </h1>
 </div>
 
-:woman_technologist: *Обо мне:*  
+### :woman_technologist: *About me:* 
 Я начинающий фронтенд-разработчик, влюбленный в создание интуитивных пользовательских интерфейсов и интерактивных веб-приложений. Сейчас активно изучаю мир веб-технологий и постоянно стремлюсь к развитию и росту.
 
-*Меня увлекает:*
-  - :art: Создание увлекательных и удобных дизайнов.
-  - :computer: Постоянное совершенствование навыков программирования через личные проекты и онлайн-курсы.
-  - :books: Исследование новых фреймворков и следование последним тенденциям в разработке интерфейсов.
-
----
-
-:hammer_and_wrench: *Языки и инструменты:*  
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" **alt="Express" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
-</div>
+#### *My interests:* 
+  :art: Создание увлекательных и удобных дизайнов. \
+  :computer: Постоянное совершенствование навыков программирования через личные проекты и онлайн-курсы. \
+  :books: Исследование новых фреймворков и следование последним тенденциям в разработке интерфейсов. \
 
 ---
 
 
+### :hammer_and_wrench: *Languages and tools:* 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-:fire: *Моя статистика :*  
+### The best projects:
+
+1. [Comparison of insurance companies](https://github.com/insurance-product-comparisons/fronted):\
+  \_ Feature: \_ helps you compare insurance company offers.\
+  Stack: JavaScript, React, SASS, HTML, Rest API, Storybook. \
+2. [Movie search](https://github.com/DariaBykonya/movies-explorer-frontend):\
+  \_ Feature: \_ search for movies on demand and the ability to save to a personal account.\
+  Stack: JavaScript, React, API, CSS, HTML, MongoDB.
+
+
+---
+
+### :fire: *My statistics:*  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DariaBykonya&theme=terafox)](https://git.io/streak-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DariaBykonya&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
