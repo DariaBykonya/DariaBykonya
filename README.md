@@ -18,12 +18,12 @@
 </div>
 
 ### :woman_technologist: *About me:* 
-Я начинающий фронтенд-разработчик, влюбленный в создание интуитивных пользовательских интерфейсов и интерактивных веб-приложений. Сейчас активно изучаю мир веб-технологий и постоянно стремлюсь к развитию и росту.
+I'm an aspiring frontend developer in love with creating intuitive user interfaces and interactive web applications. Now I am actively exploring the world of web technologies and constantly striving for development and growth.
 
 #### *My interests:* 
-  :art: Создание увлекательных и удобных дизайнов. \
-  :computer: Постоянное совершенствование навыков программирования через личные проекты и онлайн-курсы. \
-  :books: Исследование новых фреймворков и следование последним тенденциям в разработке интерфейсов. \
+  :art: Creating engaging and user-friendly designs. \
+  :computer: Continuous improvement of programming skills through personal projects and online courses. \
+  :books: Researching new frameworks and following the latest trends in interface development. \
 
 ---
 
