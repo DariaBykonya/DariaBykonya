@@ -8,6 +8,9 @@
   <a href="mailto:dashabykonya@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
+  <a href="https://www.linkedin.com/in/daria-bykonia-706a562aa/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=DariaBykonya&style=flat-square&color=blue" alt=""/>
