@@ -18,12 +18,23 @@
 </div>
 
 ### :woman_technologist: *About me:* 
-I'm an aspiring frontend developer in love with creating intuitive user interfaces and interactive web applications. Now I am actively exploring the world of web technologies and constantly striving for development and growth.
+Frontend Developer with commercial experience, building interfaces that are easy to use, easy to maintain, and easy to scale.
+I mainly work with React, Next.js, and TypeScript, Svelte 5, enjoy turning designs into responsive UI, and integrating frontend with real backend APIs.
+
+I’ve worked on production projects, admin dashboards, and MVPs, and I like being involved not only in coding, but also in improving UX and technical decisions.
 
 #### *My interests:* 
-  :art: Creating engaging and user-friendly designs. \
-  :computer: Continuous improvement of programming skills through personal projects and online courses. \
-  :books: Researching new frameworks and following the latest trends in interface development. \
+  :art: Building thoughtful UI for real users \
+  :computer: Writing clean, reusable components \
+  :gear: Improving frontend architecture and performance \
+  :rocket: Learning through real projects, not just tutorials
+
+
+
+
+
+
+
 
 ---
 
@@ -42,7 +53,9 @@ I'm an aspiring frontend developer in love with creating intuitive user interfac
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
+![Svelte 5](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte)
+![Zod](https://img.shields.io/badge/-Zod-3E67B1?style=flat&logo=zod&logoColor=white)
+![Zustand](https://img.shields.io/badge/zustand-602c3c?style=for-the-badge&logo=zustand)
 ---
 
 ### The best projects:
